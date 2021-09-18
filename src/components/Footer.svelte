@@ -5,7 +5,7 @@
 <div class="footer">
     <div class="footer__container">
         <div class="footer__copy">
-            @ {year} Pugstagram 
+            @ {year} Pugstagram  from platzi
         </div>
     </div>
 </div>
@@ -16,5 +16,6 @@
     letter-spacing: 1px;
     font-weight: normal;
     color: #c7c7c7;
+    text-transform: uppercase;
   }
 </style>

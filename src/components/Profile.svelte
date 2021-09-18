@@ -34,7 +34,9 @@
 
 <div class="profile">
     <div class="profile__content">
-        <div class="profile__avatar"><img src="" alt=""></div>
+        <div class="profile__avatar">
+          <img src="https://i.pinimg.com/originals/94/45/55/9445559841902dfdec9106f0d750ba69.jpg" alt="">
+        </div>
         <div class="profile__info">
             <h2>{nickname}</h2>
             <span>{name}</span>

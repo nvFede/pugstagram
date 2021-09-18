@@ -1,6 +1,5 @@
 <script>
 	import { onMount } from 'svelte';
-	
   
 	import Header from './components/Header.svelte';
 	import Main from './components/Main.svelte';
@@ -21,8 +20,19 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Pacifico&display=swap');
 
+	$main-color: #13f1f8;
+
+	:global(:root) ´{
+		--main-color: red;
+
+	}
+
+	body {
+		background: var(--main-color);
+	}
+
  :global(body) {
-    background-color: #fafafa;
+    background-color: $main-color;
     color: rgba(38, 38, 38, 0.7);
     font-family: "Lato", sans-serif;
     margin: 0;

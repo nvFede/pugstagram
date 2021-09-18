@@ -62,14 +62,33 @@
 <div class="stories">
     <div class="stories__container">
         <div class="stories__head">
-            <h2>Steve</h2>
-            <span>zissou</span>
+            <h2>Stories</h2>
+            <span>See all</span>
         </div>
         <div class="stories__items">
             <div class="stories__item">
                 <div class="stories__item-box">
                     <img src="https://i.pinimg.com/originals/94/45/55/9445559841902dfdec9106f0d750ba69.jpg" />
                 </div>
+                <h2>Username
+                  <span>10 hours ago</span>
+                </h2>  
+            </div>
+             <div class="stories__item">
+                <div class="stories__item-box">
+                    <img src="https://i.pinimg.com/originals/94/45/55/9445559841902dfdec9106f0d750ba69.jpg" />
+                </div>
+                <h2>Username
+                  <span>11 hours ago</span>
+                </h2>  
+            </div>
+             <div class="stories__item">
+                <div class="stories__item-box">
+                    <img src="https://i.pinimg.com/originals/94/45/55/9445559841902dfdec9106f0d750ba69.jpg" />
+                </div>
+                <h2>Username
+                  <span>15 hours ago</span>
+                </h2>  
             </div>
         </div>
     </div>

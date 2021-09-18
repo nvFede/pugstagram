@@ -10,7 +10,7 @@
 <style lang="scss">
   .sidebar {
     position: relative;
-    padding: 4.5em 0 0 0;
+    padding: 0.5em 0 0 0;
     &__container {
       position: fixed;
     }

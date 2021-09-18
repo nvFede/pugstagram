@@ -63,23 +63,6 @@
 
 </style>
 
-<!-- <div class="header">
-    <div class="header__container">
-        <div class="header__content">
-            <div class="header__logo">
-                <h1>Pugstagram</h1>
-               
-            </div>
-             <div class="header__nav">
-                    <ul>
-                        <li><i class="fas fa-heart"></i></li>
-                        <li><i class="fas fa-user-alt"></i></li>
-                    </ul>
-                </div>
-        </div>
-    </div>
-</div> -->
-
 <div class="header">
   <div class="header__container">
     <div class="header__content">
